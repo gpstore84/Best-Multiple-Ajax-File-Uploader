@@ -1,4 +1,4 @@
-Best-Multiple-Ajax-File-Uploader
+Best Multiple Ajax File Uploader In PHP
 ================================
 
 Best Multiple Ajax File Uploader In PHP
